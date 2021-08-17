@@ -4,8 +4,10 @@
   xmlns:mvc="sap.ui.core.mvc">
   <App id="idAppControl" >
     <pages>
-      <Page title="{i18n>title}">
-        <content></content>
+      <Page title="{i18n>title}"> 
+        <content>
+          <Label text="Hello SAP Fiori Cafe"/>
+        </content>
       </Page>
     </pages>
   </App>
