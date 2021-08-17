@@ -1,0 +1,21 @@
+{
+  "generator-template-ui5-project": {
+    "projectname": "helloWorld",
+    "namespaceUI5": "com.sfc",
+    "platform": "SAP HTML5 Application Repository service for SAP BTP",
+    "viewtype": "XML",
+    "ui5libs": "Local resources (SAPUI5)",
+    "newdir": true,
+    "namespaceURI": "com/sfc",
+    "opa5pos": [
+      "Main"
+    ],
+    "opa5Journeys": [
+      "Main"
+    ],
+    "uimodules": [
+      "uimodule"
+    ],
+    "setupCompleted": true
+  }
+}
